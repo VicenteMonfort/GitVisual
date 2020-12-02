@@ -12,7 +12,7 @@ for (i=c.length-1;i>=0;i--){
     d[j]=c[i];
     j++;
 }
-
+//CAmbios introducidos
 for (i=0;i<=d.length-2;i++){
     e=d[i];
     d[i]=d[i+1];
